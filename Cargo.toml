@@ -1,0 +1,7 @@
+
+[workspace]
+members = [
+    "modules/c-wrapper",
+    "modules/core",
+    "modules/pipelines/data_access"
+]
